@@ -1,0 +1,8 @@
+# This directory holds all generated data files (git-ignored).
+# Files written here:
+#   raw_spans.jsonl      - raw API output
+#   spans.jsonl          - normalised spans
+#   embeddings.npy       - float32 [N, dim] embedding matrix
+#   macro_clusters.json  - top-level clusters
+#   micro_clusters.json  - subclusters per macro cluster
+#   report.md            - human-readable summary

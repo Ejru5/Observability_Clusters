@@ -1,0 +1,7 @@
+mistralai>=1.0
+umap-learn
+hdbscan
+numpy
+python-dotenv
+scikit-learn
+torch

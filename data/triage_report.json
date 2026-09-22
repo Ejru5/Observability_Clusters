@@ -1,0 +1,37 @@
+{
+  "total_spans": 146,
+  "p95_latency_threshold_ms": 6449.44,
+  "lof": {
+    "problematic": 62,
+    "healthy": 84,
+    "problem_types": {
+      "truncated_output": 39,
+      "ml_anomaly": 8,
+      "high_latency": 8,
+      "api_error": 8,
+      "exception_error": 8,
+      "ml_confirmed": 7
+    }
+  },
+  "ae": {
+    "problematic": 60,
+    "healthy": 86,
+    "problem_types": {
+      "truncated_output": 39,
+      "high_latency": 8,
+      "api_error": 8,
+      "exception_error": 8,
+      "ml_anomaly": 6,
+      "ml_confirmed": 2
+    }
+  },
+  "rules": {
+    "fired": 54,
+    "problem_types": {
+      "truncated_output": 39,
+      "high_latency": 8,
+      "api_error": 8,
+      "exception_error": 8
+    }
+  }
+}
