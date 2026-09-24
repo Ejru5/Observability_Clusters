@@ -1,0 +1,9 @@
+mistralai>=1.0.0
+python-dotenv
+fastapi
+uvicorn[standard]
+numpy
+torch
+scikit-learn
+scipy
+pydantic

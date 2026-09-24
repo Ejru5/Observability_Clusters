@@ -1,0 +1,6 @@
+# v2 backend generated data — never commit
+data/
+.venv/
+__pycache__/
+*.pyc
+.env
